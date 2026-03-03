@@ -1,0 +1,1 @@
+Đây là repo để nộp bài tập lý thuyết BTLT1 môn học lập trình di động
